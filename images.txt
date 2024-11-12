@@ -7,6 +7,9 @@ node:16.14.2-slim
 node:18.19.0-slim
 mongo:4.4-focal
 redis:6.2.5
-6053537/portainer-ce:latest
+6053537/portainer-ce:2.19.5
+bitnami/minio:2024.1.29
+mysql:5.7
+mysql:8.4
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
