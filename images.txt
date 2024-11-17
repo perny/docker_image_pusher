@@ -16,8 +16,7 @@ mysql:5.7
 mysql:8.4
 # 不支持arm
 getsentry/sentry:7b8ce0a
-# 不支持arm64
-postgres:11
+postgres:14.14
 # 不支持arm
 sonarqube:8.9.2-community
 #支持指定架构
