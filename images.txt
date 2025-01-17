@@ -1,6 +1,6 @@
 #支持私库测试
 ollama/ollama:latest
-ghcr.io/open-webui/open-webui:latest
+ghcr.io/open-webui/open-webui:main
 # 不支持arm64
 nginx:1.19.0
 node:14.18.3-slim
