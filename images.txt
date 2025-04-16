@@ -3,9 +3,18 @@ ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
 # 不支持arm64
 nginx:1.19.0
+node:14.8-slim
+node:14.8-alpine
 node:14.18.3-slim
+node:14.18.3-alpine
+node:16.8-slim
+node:16.8-alpine
 node:16.14.2-slim
+node:16.14.2-alpine
+node:18.12-slim
+node:18.12-alpine
 node:18.19.0-slim
+node:18.19.0-alpine
 mongo:4.4-focal
 # 不支持arm64
 redis:6.2.5
