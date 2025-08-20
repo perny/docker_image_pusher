@@ -30,3 +30,6 @@ postgres:14.14
 sonarqube:8.9.2-community
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+
+express-gateway:latest
