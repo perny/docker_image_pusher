@@ -3,6 +3,7 @@ ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
 # 不支持arm64
 nginx:1.19.0
+nginx:1.18.3
 node:14.8-slim
 node:14.8-alpine
 node:14.18.3-slim
