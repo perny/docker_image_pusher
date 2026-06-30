@@ -24,7 +24,6 @@ mongo:4.4-focal
 # 不支持arm64
 redis:6.2.5
 6053537/portainer-ce:2.19.5
-bitnami/minio:2024.1.29
 # 5.7不支持arm
 mysql:5.7
 mysql:8.4
