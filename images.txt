@@ -29,5 +29,5 @@ getsentry/sentry:7b8ce0a
 postgres:14.14
 # 不支持arm
 sonarqube:8.9.2-community
-#支持指定架构
+# 支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
