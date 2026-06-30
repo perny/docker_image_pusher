@@ -16,6 +16,8 @@ node:18.12-slim
 node:18.12-alpine
 node:18.19.0-slim
 node:18.19.0-alpine
+node:22.13.1-slim
+node:22.13.1-alpine3.21
 mongo:4.4-focal
 # 不支持arm64
 redis:6.2.5
