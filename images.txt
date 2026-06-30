@@ -2,8 +2,8 @@
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
 # 不支持arm64
+nginxinc/nginx-unprivileged:1.27.5-alpine
 nginx:1.19.0
-nginx:1.18.3
 node:14.8-slim
 node:14.8-alpine
 node:14.18.3-slim
@@ -35,6 +35,3 @@ postgres:14.14
 sonarqube:8.9.2-community
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
-
-express-gateway:latest
