@@ -1,6 +1,7 @@
 # 不支持arm64
 nginxinc/nginx-unprivileged:1.27.5-alpine
 nginx:1.19.0
+nginx:1.27-alpine
 node:14.8-slim
 node:14.8-alpine
 node:14.18.3-slim
