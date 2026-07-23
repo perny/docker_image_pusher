@@ -2,6 +2,7 @@
 nginxinc/nginx-unprivileged:1.27.5-alpine
 nginx:1.19.0
 nginx:1.27-alpine
+node:12.19.1
 node:14.8-slim
 node:14.8-alpine
 node:14.18.3-slim
@@ -10,6 +11,7 @@ node:16.8-slim
 node:16.8-alpine
 node:16.14.2-slim
 node:16.14.2-alpine
+node:16.20.1-slim
 node:18.12-slim
 node:18.12-alpine
 node:18.19.0-slim
